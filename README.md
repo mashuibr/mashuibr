@@ -21,7 +21,7 @@
 </div>
 <p><pre>char thought_(){
   vibe coding this,,vibe coding that;
-  bro we just vibe ;
-  coding just comes before or after😭;
+  bro we just code ;
+  vibing just comes before or after😭;
 }</pre>
 </p>
